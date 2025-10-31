@@ -1,0 +1,4 @@
+com\rolapet\catalog\CatalogRepository.class
+com\rolapet\catalog\CatalogService.class
+com\rolapet\catalog\Item.class
+com\rolapet\dao\JdbcCatalogRepository.class
